@@ -1,0 +1,6 @@
+cd/path/to/Kompania-e-Sigurimeve
+git init
+git add .
+git commit -m "Projekti fillestar i faqes se sigurimeve"
+git remote add origin https://github.com/username/Kompania-e-Sigurimeve.git
+git push -u orgin master
